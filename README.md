@@ -1,2 +1,19 @@
-# d-vue2-lazy-load
-vue2版本图片懒加载
+# d-vue3-lazy-load
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
