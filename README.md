@@ -3,6 +3,9 @@
 ## Project setup
 ```
 npm install
+
+先启动serve下面的服务
+nodemon index.js
 ```
 
 ### Compiles and hot-reloads for development
