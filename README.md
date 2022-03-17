@@ -1,4 +1,4 @@
-# d-vue3-lazy-load
+# d-vue2-lazy-load
 
 ## Project setup
 ```
